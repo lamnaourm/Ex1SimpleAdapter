@@ -2,7 +2,6 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:gravity="center">
 
     <ImageView
@@ -20,7 +19,6 @@
             android:id="@+id/paysNom"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="center"
             android:layout_marginLeft="30dp"
             android:text="Argentine"
             android:textSize="30sp"
@@ -30,7 +28,6 @@
             android:id="@+id/paysPopulation"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="center"
             android:layout_marginLeft="30dp"
             android:text="23121212"
             android:textStyle="bold" />
