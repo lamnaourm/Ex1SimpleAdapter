@@ -14,7 +14,7 @@ import java.util.HashMap;
 public class MainActivity extends AppCompatActivity {
 
     ArrayList<Pays> list_pays = new ArrayList<>();
-    GridView lst;
+    ListView lst;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
